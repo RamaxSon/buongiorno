@@ -2,7 +2,7 @@
 
 <img src="https://images.wired.it/gallery/120617/Big/286699b4-24ea-4fdf-8fc1-25eb198ec6a5.jpg" data-canonical-src="https://images.wired.it/gallery/120617/Big/286699b4-24ea-4fdf-8fc1-25eb198ec6a5.jpg" width="250" />
 
-A simple Discord bot to send random `buongiornissimi`
+A simple Discord bot to send random `I got Sick mo`
 
 ## Installation
 
